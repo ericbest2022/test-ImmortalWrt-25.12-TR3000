@@ -10,8 +10,7 @@
 
 # config配置文件
 
-    导入【bnaand/immortalwrt-mt798x-cudy-tr3000-6.6】的 config，添加passwall
-    https://github.com/bnaand/immortalwrt-mt798x-cudy-tr3000-6.6
+    config-XiaoWanSM-OpenWrt-24.10
 
 
 # 编译环境
