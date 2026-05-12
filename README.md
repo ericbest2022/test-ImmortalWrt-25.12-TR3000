@@ -2,21 +2,7 @@
 
 ## 20260327：WiFi加密方式WPA3有些低端设备连接不上
 
-## 20260320
 
-- passwall
-- config 
-
-
-# config配置文件
-
-    config-XiaoWanSM-OpenWrt-24.10
-
-
-# 编译环境
-
-    导入【sagehou/360T7-ImmortalWrt】
-    https://github.com/sagehou/360T7-ImmortalWrt
 
 
 ## Version
